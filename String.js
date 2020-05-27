@@ -12,7 +12,7 @@ public class Solution {
 
     
         System.out.println(A.length()+ B.length());
-         if ( A.compareToIgnoreCase(B) < 0 )  
+         if ( A.compareToIgnoreCase(B) <= 0 )  
             System.out.println("No");
         else
             System.out.println("Yes");
