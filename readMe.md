@@ -12,3 +12,7 @@ hello - java
 --------
 9 - No - Hello Java
 
+
+**charAt():**  stringte istenilen karakter
+**toUpperCase / toLowerCase:** Bütün harfleri büyük ya da küçük yapma
+**length() :** String uzunluğu
